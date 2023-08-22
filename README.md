@@ -4,7 +4,7 @@
 
 #### 👋 Introduction
 
-##### I'm a Front End developer, I'm very interested in programming and I'm currently reading more and more!
+##### I am Sajad, a Front-End specialist with a passion for user interface design and interactive website development. Experience in HTML, CSS and JavaScript, React allows me to turn creative ideas into reality. I see the design of user interfaces as an exciting challenge and by following the principles of design, I try to bring an optimal user experience. Along with technical abilities, I always seek to learn the latest technologies and development methods.
 
 #### 🚀 Languages and tools
 <p>
